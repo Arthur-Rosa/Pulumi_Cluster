@@ -1,0 +1,7 @@
+config:
+  azure-native:location: WestUS2
+  azure:clientId: 9c31f993-75b0-4f40-9e99-0f92e8d2ec26
+  azure:clientSecret:
+    secure: AAABAIQ5r+9oiSPNHYpn4BPNJkbj0E7tG+cIZ1gPLl4X1KssHtPTM+WZFoW1Uo2v8+bMK/fujnlNyb/xzoAnjwgs6TDD49hF
+  azure:subscriptionId: 448f6033-c7d0-47ae-b8ab-776df9893b3e
+  azure:tenantId: f914f3cc-b198-4431-8b6f-604f95a44159
